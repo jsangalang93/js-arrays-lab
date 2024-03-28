@@ -146,4 +146,45 @@ Complete Exercise 8 in the space below:
 
 
 
-console.log('Exercise 8 result:', soyIdx);
+// const foods = ['pizza', 'cheeseburger'];
+//     console.log(foods.unshift('taco'));
+//     const favFood = foods[1]
+//     foods.splice(2, 0, 'tofu');
+//     foods[1] = 'sushi'
+//     foods.splice(2, 0, 'cupcake')
+//     //const yummy = foods.slice(1, 3)
+//     const soyIdx = foods.indexOf('tofu');
+// console.log('Exercise 8 result:', soyIdx);
+
+
+
+/*
+Exercise 9: Joining elements
+
+1) Use the `join()` method to concatenate the strings in the `foods` array, 
+   separated by ' -> '. 
+
+2) Assign the result to a variable called `allFoods`. 
+
+Note: The final result should log as:
+'taco -> sushi -> cupcake -> tofu -> cheeseburger'
+
+Complete Exercise 9 in the space below:
+*/
+
+
+
+const foods = ['pizza', 'cheeseburger'];
+    console.log(foods.unshift('taco'));
+    const favFood = foods[1]
+    foods.splice(2, 0, 'tofu');
+    foods[1] = 'sushi'
+    foods.splice(2, 0, 'cupcake')
+    //const yummy = foods.slice(1, 3)
+    //const soyIdx = foods.indexOf('tofu');
+    const allFoods = console.log(foods.join(' -> '));
+
+console.log('Exercise 9 result:', allFoods);
+
+
+
