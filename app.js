@@ -38,8 +38,8 @@ Complete Exercise 3 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//     console.log(foods.unshift('taco'));
+    // const foods = ['pizza', 'cheeseburger'];
+    //     console.log(foods.unshift('taco'));
     
 
 
@@ -59,12 +59,12 @@ Complete Exercise 4 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//     console.log(foods.unshift('taco'));
-//     const favFood = foods[1]
+        // const foods = ['pizza', 'cheeseburger'];
+        //     console.log(foods.unshift('taco'));
+        //     const favFood = foods[1]
 
 
-// console.log('Exercise 4 result:', favFood);
+        // console.log('Exercise 4 result:', favFood);
 
 /*
 Exercise 5: Insert an element between two others
@@ -76,13 +76,13 @@ Complete Exercise 5 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//      console.log(foods.unshift('taco'));
-//      const favFood = foods[1]
-//      foods.splice(2, 0, 'tofu');
+        // const foods = ['pizza', 'cheeseburger'];
+        //      console.log(foods.unshift('taco'));
+        //      const favFood = foods[1]
+        //      foods.splice(2, 0, 'tofu');
 
 
-// console.log('Exercise 5 result:', foods);
+        // console.log('Exercise 5 result:', foods);
 
 
 
@@ -96,14 +96,14 @@ Complete Exercise 6 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//       console.log(foods.unshift('taco'));
-//       const favFood = foods[1]
-//       foods.splice(2, 0, 'tofu');
-//       foods[1] = 'sushi'
-//       foods.splice(2, 0, 'cupcake')
-      
-//       console.log('Exercise 6 result:', foods);
+        // const foods = ['pizza', 'cheeseburger'];
+        //       console.log(foods.unshift('taco'));
+        //       const favFood = foods[1]
+        //       foods.splice(2, 0, 'tofu');
+        //       foods[1] = 'sushi'
+        //       foods.splice(2, 0, 'cupcake')
+            
+        //       console.log('Exercise 6 result:', foods);
 
 
 
@@ -120,16 +120,16 @@ Complete Exercise 7 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//       console.log(foods.unshift('taco'));
-//       const favFood = foods[1]
-//       foods.splice(2, 0, 'tofu');
-//       foods[1] = 'sushi'
-//       foods.splice(2, 0, 'cupcake')
-//       const yummy = foods.slice(1, 3)
+        // const foods = ['pizza', 'cheeseburger'];
+        //       console.log(foods.unshift('taco'));
+        //       const favFood = foods[1]
+        //       foods.splice(2, 0, 'tofu');
+        //       foods[1] = 'sushi'
+        //       foods.splice(2, 0, 'cupcake')
+        //       const yummy = foods.slice(1, 3)
 
 
-// console.log('Exercise 7 result:', yummy);
+        // console.log('Exercise 7 result:', yummy);
 
 
 
@@ -146,15 +146,15 @@ Complete Exercise 8 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//     console.log(foods.unshift('taco'));
-//     const favFood = foods[1]
-//     foods.splice(2, 0, 'tofu');
-//     foods[1] = 'sushi'
-//     foods.splice(2, 0, 'cupcake')
-//     //const yummy = foods.slice(1, 3)
-//     const soyIdx = foods.indexOf('tofu');
-// console.log('Exercise 8 result:', soyIdx);
+        // const foods = ['pizza', 'cheeseburger'];
+        //     console.log(foods.unshift('taco'));
+        //     const favFood = foods[1]
+        //     foods.splice(2, 0, 'tofu');
+        //     foods[1] = 'sushi'
+        //     foods.splice(2, 0, 'cupcake')
+        //     //const yummy = foods.slice(1, 3)
+        //     const soyIdx = foods.indexOf('tofu');
+        // console.log('Exercise 8 result:', soyIdx);
 
 
 
@@ -174,17 +174,17 @@ Complete Exercise 9 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//     console.log(foods.unshift('taco'));
-//     const favFood = foods[1]
-//     foods.splice(2, 0, 'tofu');
-//     foods[1] = 'sushi'
-//     foods.splice(2, 0, 'cupcake')
-//     //const yummy = foods.slice(1, 3)
-//     //const soyIdx = foods.indexOf('tofu');
-//     const allFoods = console.log(foods.join(' -> '));
+        // const foods = ['pizza', 'cheeseburger'];
+        //     console.log(foods.unshift('taco'));
+        //     const favFood = foods[1]
+        //     foods.splice(2, 0, 'tofu');
+        //     foods[1] = 'sushi'
+        //     foods.splice(2, 0, 'cupcake')
+        //     //const yummy = foods.slice(1, 3)
+        //     //const soyIdx = foods.indexOf('tofu');
+        //     const allFoods = console.log(foods.join(' -> '));
 
-// console.log('Exercise 9 result:', allFoods);
+        // console.log('Exercise 9 result:', allFoods);
 
 
 
@@ -201,15 +201,15 @@ Complete Exercise 10 in the space below:
 
 
 
-// const foods = ['pizza', 'cheeseburger'];
-//     console.log(foods.unshift('taco'));
-//     const favFood = foods[1]
-//     foods.splice(2, 0, 'tofu');
-//     foods[1] = 'sushi'
-//     foods.splice(2, 0, 'cupcake')
-//     const hasSoup = console.log(foods.includes('soup'));
+        // const foods = ['pizza', 'cheeseburger'];
+        //     console.log(foods.unshift('taco'));
+        //     const favFood = foods[1]
+        //     foods.splice(2, 0, 'tofu');
+        //     foods[1] = 'sushi'
+        //     foods.splice(2, 0, 'cupcake')
+        //     const hasSoup = console.log(foods.includes('soup'));
 
-// console.log('Exercise 10 result:', hasSoup);
+        // console.log('Exercise 10 result:', hasSoup);
 
 
 
@@ -227,17 +227,17 @@ Complete Exercise 11 in the space below:
 
 
 
-//const nums = [100, 5, 23, 15, 21, 72, 9, 45, 66, 7, 81, 90];
-// const odds = []
-// for (let i = 0; i < nums.length; i++) {
-//     console.log(nums[i]);
-//     if(nums[i]%2 !== 0){
-//         odds.push(nums[i])
-//     }
+        //const nums = [100, 5, 23, 15, 21, 72, 9, 45, 66, 7, 81, 90];
+        // const odds = []
+        // for (let i = 0; i < nums.length; i++) {
+        //     console.log(nums[i]);
+        //     if(nums[i]%2 !== 0){
+        //         odds.push(nums[i])
+        //     }
 
-// }
+        // }
 
-// console.log('Exercise 11 result:', odds);
+        // console.log('Exercise 11 result:', odds);
 
 
 /*
@@ -259,29 +259,29 @@ Exercise 12: FizzBuzz with arrays
 Complete Exercise 12 in the space below:
 */
 
-// const nums = [100, 5, 23, 15, 21, 72, 9, 45, 66, 7, 81, 90];
-// const fizz = []
-// const buzz = []
-// const fizzbuzz = []
+        // const nums = [100, 5, 23, 15, 21, 72, 9, 45, 66, 7, 81, 90];
+        // const fizz = []
+        // const buzz = []
+        // const fizzbuzz = []
 
-// for (let i = 0; i < nums.length; i++) {
-//     console.log(nums[i]);
-//     if(nums[i]%3 === 0 && nums[i]%5 === 0){
-//         fizzbuzz.push(nums[i])
-//     }
-//   else if(nums[i]%5 === 0){
-//     buzz.push(nums[i])
-//     }
-//     else if(nums[i]%3 === 0){
-//         fizz.push(nums[i])
-    
-//     }
-// }
+        // for (let i = 0; i < nums.length; i++) {
+        //     console.log(nums[i]);
+        //     if(nums[i]%3 === 0 && nums[i]%5 === 0){
+        //         fizzbuzz.push(nums[i])
+        //     }
+        //   else if(nums[i]%5 === 0){
+        //     buzz.push(nums[i])
+        //     }
+        //     else if(nums[i]%3 === 0){
+        //         fizz.push(nums[i])
+            
+        //     }
+        // }
 
-// console.log('Exercise 12 Results:');
-// console.log('  fizz:', fizz);
-// console.log('  buzz:', buzz);
-// console.log('  fizzbuzz:', fizzbuzz);
+        // console.log('Exercise 12 Results:');
+        // console.log('  fizz:', fizz);
+        // console.log('  buzz:', buzz);
+        // console.log('  fizzbuzz:', fizzbuzz);
 
 
 /*
@@ -296,19 +296,46 @@ Exercise 13: Retrieve the Last Array
 Complete Exercise 13 in the space below:
 */
 
-// const numArrays = [
-// 	[100, 5, 23],
-// 	[15, 21, 72, 9],
-// 	[45, 66],
-// 	[7, 81, 90]
-// ];
+        // const numArrays = [
+        // 	[100, 5, 23],
+        // 	[15, 21, 72, 9],
+        // 	[45, 66],
+        // 	[7, 81, 90]
+        // ];
 
 
-// const numList = numArrays[numArrays.length-1]
+        // const numList = numArrays[numArrays.length-1]
 
 
 
 
-// console.log('Exercise 13 result:', numList);
+        // console.log('Exercise 13 result:', numList);
 
 
+
+
+/*
+Exercise 14: Accessing within nested arrays
+
+1) Retrieve the number `66` from the `numArrays` array. As part of this process
+   do not alter the original `numArrays` array.
+
+2) Assign it to a variable called `num`.
+
+Complete Exercise 14 in the space below:
+*/
+
+
+        // const numArrays = [
+        //     [100, 5, 23],
+        //     [15, 21, 72, 9],
+        //     [45, 66],
+        //     [7, 81, 90]
+        // ];
+
+        // //const num = numArrays[numArrays.length-2];
+        //     const num = numArrays [2] [1]
+        
+        // console.log('Exercise 14 result:', num);
+
+       
