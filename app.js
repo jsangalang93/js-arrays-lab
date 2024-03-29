@@ -338,4 +338,34 @@ Complete Exercise 14 in the space below:
         
         // console.log('Exercise 14 result:', num);
 
-       
+
+
+
+/*
+Exercise 15: Nested array sum
+
+1) Use nested loops or `forEach()` methods to sum up all numbers within 
+   `numArrays` nested arrays.
+   
+2) Assign the sum to a variable called `total`.
+
+Hint: Be sure to declare and the total variable before the iterations.
+
+Complete Exercise 15 in the space below:
+*/
+
+        const numArrays = [
+            [100, 5, 23],
+            [15, 21, 72, 9],
+            [45, 66],
+            [7, 81, 90]
+        ];
+
+
+
+console.log('Exercise 15 result:\n', total);       
+
+
+arr.forEach((element) => {
+    console.log(element);
+  });
