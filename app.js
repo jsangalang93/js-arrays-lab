@@ -23,8 +23,8 @@ Complete Exercise 2 in the space below:
 
 
 
-//const foods = ['pizza', 'cheeseburger'];
- //   console.log('Exercise 2 result:', foods);
+// const foods = ['pizza', 'cheeseburger'];
+//    console.log('Exercise 2 result:', foods);
 
 
 
@@ -38,12 +38,14 @@ Complete Exercise 3 in the space below:
 
 
 
-    // const foods = ['pizza', 'cheeseburger'];
-    //     console.log(foods.unshift('taco'));
+//     const foods = ['pizza', 'cheeseburger'];
+//         console.log(foods.unshift('taco'));
     
 
 
 // console.log('Exercise 3 result:', foods);
+
+
 
 
 /*
@@ -354,18 +356,19 @@ Hint: Be sure to declare and the total variable before the iterations.
 Complete Exercise 15 in the space below:
 */
 
-        const numArrays = [
-            [100, 5, 23],
-            [15, 21, 72, 9],
-            [45, 66],
-            [7, 81, 90]
-        ];
 
+const numArrays = [
+        [100, 5, 23],
+        [15, 21, 72, 9],
+        [45, 66],
+        [7, 81, 90]
+    ];
+        let total = 0;
 
+        numArrays.forEach((nestedArray) => {
+                nestedArray.forEach((number) => {
+                        total += number
+                })
+        })
 
-console.log('Exercise 15 result:\n', total);       
-
-
-arr.forEach((element) => {
-    console.log(element);
-  });
+        console.log('Execise 15 result ', total);
